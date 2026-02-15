@@ -1,21 +1,20 @@
-Today-s-Date:
-# 📅 Today's Date — Simple Date Display!
+# ⏱ Digital Clock — Live Time Display!
 
-> "Know your day!" 🗓
+> "Every second counts!" ⚡
 
 ---
 
 ## ✨ Features
-- Click button → shows today's date
-- Clean dark design
-- Built with JavaScript
+- Live time updates every second
+- Clean dark theme design
+- Mobile friendly
 
 ---
 
 ## 🚀 How to Use
-Open `date.html` in any browser!
+Open `digital-clock.html` in any browser!
 
 ---
 
 ## 👩‍💻 Built by
-**KChavhan17** | 3rd Semester | Phone only 📱🔥
+**KChavhan17** | 3rd Semester |
