@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 How to Use
-Open `digital-clock.html` in any browser!
+Open `clock.html` in any browser!
 
 ---
 
