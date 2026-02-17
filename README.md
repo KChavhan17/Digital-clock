@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 How to Use
-Open `clock.html` in any browser!
+Open `index.html` in any browser!
 
 ---
 
