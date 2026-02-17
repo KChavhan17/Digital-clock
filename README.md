@@ -17,4 +17,4 @@ Open `clock.html` in any browser!
 ---
 
 ## 👩‍💻 Built by
-**KChavhan17** | 3rd Semester |
+**KChavhan17** | 4th Semester |
